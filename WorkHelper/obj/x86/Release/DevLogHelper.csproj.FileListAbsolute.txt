@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\bin\Release\DevLogHelper.exe.config
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.ApproveFrom.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.BaseSqlBuilder.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.DevCode.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.ExcelCode.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.Main.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.RepeaterTableCode.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.Resources.ResourceDevCode.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.Resources.ResourceMsg.resources
+C:\Users\Administrator\Desktop\DevLogHelper\DevLogHelper\DevLogHelper\obj\x86\Release\DevLogHelper.csproj.GenerateResource.Cache
